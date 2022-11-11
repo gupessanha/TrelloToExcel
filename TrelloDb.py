@@ -58,3 +58,6 @@ class Board:
             nameList.append(holder['name'])
         print(nameList)
             
+
+teste = Board()
+teste.get_board_name()
